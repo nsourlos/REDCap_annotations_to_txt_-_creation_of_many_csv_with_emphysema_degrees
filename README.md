@@ -1,0 +1,1 @@
+# REDCap_annotations_to_txt_-_creation_of_many_csv_with_emphysema_degrees
